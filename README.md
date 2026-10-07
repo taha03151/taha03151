@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:131210,50:7A2E0E,100:E8590C&height=180&section=header&text=Taha&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Brand%20Pulse%20—%20AI%20Agents%20%7C%20SaaS%20%7C%20Digital%20Marketing&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:131210,50:7A2E0E,100:E8590C&height=180&section=header&text=Taha&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Senior%20Digital%20Marketing%20%26%20Growth%20Lead%20%7C%20AI%20Automation%20Expert&descAlignY=58&descSize=16)
 
 </div>
 
@@ -8,9 +8,19 @@
 
 I build **AI systems that make local businesses money** — 24/7 AI voice receptionists that answer every call, qualify the job and book it, plus SaaS that shows a business whether ChatGPT and Google AI recommend them — and what to fix when they don't.
 
+Digital Marketing Head at Yuni Rides (US) — I lead full-stack growth and build production AI automation (n8n / Make / Cloudflare Workers, D1, Vectorize).
+
 - 🤖 **AI Agent Suite** — 7 production agents on one core: home-services voice receptionist, dental & legal intake, speed-to-lead, dead-lead reactivation, Shopify support, WhatsApp booking
 - 🔎 **LocalCite AI** *(in development)* — local AI-visibility (GEO) tracking + fix system for businesses and agencies
 - 🎯 **Brand Pulse** — digital marketing: SEO / GEO, social, short-form video, branding
+
+### Proof, not promises
+
+- 400% platform growth — OGamez4U gaming community
+- 320% blog traffic increase through content marketing
+- 500% Facebook page growth & 250% more leads — JOBSONINE
+- 'Rising & Emerging Superstar' award — Yuni Rides
+- HubSpot Social Media Marketing Certified (2025) · BSc Computer Science/IT, Iqra University
 
 ### Right now
 
@@ -26,6 +36,12 @@ I build **AI systems that make local businesses money** — 24/7 AI voice recept
 ![Android](https://img.shields.io/badge/Android-131210?style=for-the-badge&logo=android&logoColor=E8590C)
 ![n8n](https://img.shields.io/badge/n8n-131210?style=for-the-badge&logo=n8n&logoColor=E8590C)
 ![Git](https://img.shields.io/badge/Git-131210?style=for-the-badge&logo=git&logoColor=E8590C)
+![Make.com](https://img.shields.io/badge/Make.com-131210?style=for-the-badge&logo=make&logoColor=E8590C)
+![Zapier](https://img.shields.io/badge/Zapier-131210?style=for-the-badge&logo=zapier&logoColor=E8590C)
+![HubSpot](https://img.shields.io/badge/HubSpot-131210?style=for-the-badge&logo=hubspot&logoColor=E8590C)
+![WordPress](https://img.shields.io/badge/WordPress-131210?style=for-the-badge&logo=wordpress&logoColor=E8590C)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-131210?style=for-the-badge&logo=googleanalytics&logoColor=E8590C)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-131210?style=for-the-badge&logo=cloudflare&logoColor=E8590C)
 
 Voice & AI stack: Vapi · Retell AI · OpenAI · Twilio · Meta WhatsApp Cloud API · GoHighLevel
 
@@ -51,6 +67,7 @@ Voice & AI stack: Vapi · Retell AI · OpenAI · Twilio · Meta WhatsApp Cloud A
 ### Talk to me
 
 - 🌐 **AI agents & services:** https://muse.ai/s/ai-agents-sales-website-xvxt5xpxqixzbexk3
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-taha-fakhr-5a59002a5
 - 📅 **Book a free 15-min missed-call audit:** https://calendly.com/techn3st-pk/missed-call-audit-15-minutes
 
 <div align="center">
